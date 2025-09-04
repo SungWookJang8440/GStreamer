@@ -1,5 +1,4 @@
 # Read
-# Read
 ## 1단계 Gstreamer 버젼 및 다운로드 링크
 
 1. 버젼 : gst-launch-1.0 version 1.26.4
